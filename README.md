@@ -26,6 +26,6 @@ API docs is [available here](https://api.radiobollyfm.im/docs).
 
 ### CREDITS:
 
-- [Musicder](https://github.com/tuhinpal/Musicder "Musicder")
+- [Tuhin](https://github.com/tuhinpal/ "Tuhin")
 
 <br>
