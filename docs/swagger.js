@@ -2,7 +2,7 @@ module.exports = {
   swagger: "2.0",
   info: {
     title: "API",
-    description: "API Written for radioBollyFM",
+    description: "API for www.radiobollyfm.in",
     version: "3.0.0",
   },
   host: process.env.APP_URL?.split("://")[1] || "localhost:3000",
@@ -22,7 +22,7 @@ module.exports = {
         "Get album related information like album search or fetch songs",
     },
   ],
-  schemes: [process.env.APP_URL?.split("://")[0] || "http"],
+  schemas: [process.env.APP_URL?.split("://")[0] || "http"],
   consumes: [],
   produces: [],
   paths: {
@@ -53,7 +53,7 @@ module.exports = {
     "/song": {
       get: {
         tags: ["Song"],
-        description: "Get song detail from id",
+        description: "Get song detail by id",
         parameters: [
           {
             name: "id",
