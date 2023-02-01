@@ -1,15 +1,15 @@
 module.exports = {
   swagger: "2.0",
   info: {
-    title: "JiosaavnAPI",
-    description: "Unofficial JioSaavn API Written in Javascript",
+    title: "API",
+    description: "API Written for radioBollyFM",
     version: "3.0.0",
   },
   host: process.env.APP_URL?.split("://")[1] || "localhost:3000",
   basePath: "/",
   license: {
     name: "Apache 2.0",
-    url: "https://github.com/tuhinpal/JiosaavnAPI/blob/v3/LICENSE",
+    url: "https://github.com/xawwnee/JiosaavnAPI/blob/v3/LICENSE",
   },
   tags: [
     {
