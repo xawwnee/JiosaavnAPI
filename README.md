@@ -2,7 +2,7 @@
 Jiosaavn Lightweight API
 </h1>
 <h4 align="center">
-India's Music Streaming Platform Jiosaavn's Lightweight API.
+Jiosaavn is one of the India's best music streaming platform.
 </h4>
 <br>
 <br>
