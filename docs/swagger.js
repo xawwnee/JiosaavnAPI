@@ -22,7 +22,7 @@ module.exports = {
         "Get album related information like album search or fetch songs",
     },
   ],
-  schemas: [process.env.APP_URL?.split("://")[0] || "http"],
+  schemes: [process.env.APP_URL?.split("://")[0] || "http"],
   consumes: [],
   produces: [],
   paths: {
