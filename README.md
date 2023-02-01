@@ -1,8 +1,8 @@
 <h1 align="center">
-Jiosaavn API
+Jiosaavn Lightweight API
 </h1>
 <h4 align="center">
-India's best Song Streaming Platform Jiosaavn's Lightweight API.
+India's Music Streaming Platform Jiosaavn's Lightweight API.
 </h4>
 <br>
 <br>
@@ -17,14 +17,7 @@ India's best Song Streaming Platform Jiosaavn's Lightweight API.
 
 API docs is [available here](https://api.radiobollyfm.im/docs).
 
-### Deploy Your Own:
-
-- Fork this Repo
-- Goto <tt>https://vercel.com</tt>
-- Connect with your Forked Repo
-- Deploy
-
-### CREDITS:
+### Credits:
 
 - [Tuhin](https://github.com/tuhinpal/ "Tuhin")
 
