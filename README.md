@@ -1,9 +1,5 @@
 <h1 align="center">
-<br>
-<img src="https://telegra.ph/file/3f4ec4d689573bd4de154.png" alt="Jiosaavn API" width="300">
-<br>
 Jiosaavn API
-<br>
 </h1>
 <h4 align="center">
 India's best Song Streaming Platform Jiosaavn's Lightweight Unofficial API, which can be deployed with vercel for Free.
