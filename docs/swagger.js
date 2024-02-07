@@ -7,7 +7,7 @@ module.exports = {
   },
   host: process.env.APP_URL?.split("://")[1] || "localhost:3000",
   basePath: "/",
-  customCssUrl: "https://cdn.jsdelivr.net/npm/swagger-ui-themes@3.0.1/themes/3.x/theme-flattop.min.css",
+  customCssUrl: "https://cdn.jsdelivr.net/npm/swagger-ui-themes@3.0.1/themes/3.x/theme-outline.min.css",
   license: {
     name: "Apache 2.0",
     url: "https://github.com/xawwnee/JiosaavnAPI/blob/v3/LICENSE",
