@@ -82,7 +82,7 @@ module.exports = {
     "/link": {
       get: {
         tags: ["Song"],
-        description: "Get song detail from Jiosaavn Link",
+        description: "Get song detail from Link",
         parameters: [
           {
             name: "link",
